@@ -177,13 +177,13 @@ export default function AboutUs() {
 								<div className="col-lg-3 col-md-6 col-12">
 									<div className="card-news background-card hover-up shadow-2 mb-4 mb-lg-0">
 										<div className="card-image">
-											<Link href="/dealer-details">
+											<Link href="#">
 												<img src="/assets/imgs/team/team-1/portrait-1.png" alt="CS-Store" />
 											</Link>
 										</div>
 										<div className="card-info p-4">
 											<div className="card-title">
-												<Link className="text-xl-bold neutral-1000" href="/dealer-details">
+												<Link className="text-xl-bold neutral-1000" href="#">
 													<h6>Cody Fisher</h6>
 												</Link>
 												<span className="text-sm-medium neutral-500">CFO (Chief Financial Officer)</span>
@@ -204,7 +204,7 @@ export default function AboutUs() {
 															<img className="m-0" src="/assets/imgs/team/team-1/icon-4.svg" alt="CS-Store" />
 														</Link>
 													</div>
-													<Link href="/dealer-details" className="rounded-circle background-100 icon-shape icon icon-sm hover-up border icon-shape-arrow">
+													<Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up border icon-shape-arrow">
 														<img className="m-0" src="/assets/imgs/team/team-1/arrow-up-right.svg" alt="CS-Store" />
 													</Link>
 												</div>
@@ -215,13 +215,13 @@ export default function AboutUs() {
 								<div className="col-lg-3 col-md-6 col-12">
 									<div className="card-news background-card hover-up shadow-2 mb-4 mb-lg-0">
 										<div className="card-image">
-											<Link href="/dealer-details">
+											<Link href="#">
 												<img src="/assets/imgs/team/team-1/portrait-2.png" alt="CS-Store" />
 											</Link>
 										</div>
 										<div className="card-info p-4">
 											<div className="card-title">
-												<Link className="text-xl-bold neutral-1000" href="/dealer-details">
+												<Link className="text-xl-bold neutral-1000" href="#">
 													<h6>Darrell Steward</h6>
 												</Link>
 												<span className="text-sm-medium neutral-500">CEO (Chief Financial Officer)</span>
@@ -242,7 +242,7 @@ export default function AboutUs() {
 															<img className="m-0" src="/assets/imgs/team/team-1/icon-4.svg" alt="CS-Store" />
 														</Link>
 													</div>
-													<Link href="/dealer-details" className="rounded-circle background-100 icon-shape icon icon-sm hover-up border icon-shape-arrow">
+													<Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up border icon-shape-arrow">
 														<img className="m-0" src="/assets/imgs/team/team-1/arrow-up-right.svg" alt="CS-Store" />
 													</Link>
 												</div>
@@ -253,13 +253,13 @@ export default function AboutUs() {
 								<div className="col-lg-3 col-md-6 col-12">
 									<div className="card-news background-card hover-up shadow-2 mb-4 mb-lg-0">
 										<div className="card-image">
-											<Link href="/dealer-details">
+											<Link href="#">
 												<img src="/assets/imgs/team/team-1/portrait-3.png" alt="CS-Store" />
 											</Link>
 										</div>
 										<div className="card-info p-4">
 											<div className="card-title">
-												<Link className="text-xl-bold neutral-1000" href="/dealer-details">
+												<Link className="text-xl-bold neutral-1000" href="#">
 													<h6>Ronald Richards</h6>
 												</Link>
 												<span className="text-sm-medium neutral-500">COO (Chief Financial Officer)</span>
@@ -280,7 +280,7 @@ export default function AboutUs() {
 															<img className="m-0" src="/assets/imgs/team/team-1/icon-4.svg" alt="CS-Store" />
 														</Link>
 													</div>
-													<Link href="/dealer-details" className="rounded-circle background-100 icon-shape icon icon-sm hover-up border icon-shape-arrow">
+													<Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up border icon-shape-arrow">
 														<img className="m-0" src="/assets/imgs/team/team-1/arrow-up-right.svg" alt="CS-Store" />
 													</Link>
 												</div>
@@ -291,13 +291,13 @@ export default function AboutUs() {
 								<div className="col-lg-3 col-md-6 col-12">
 									<div className="card-news background-card hover-up shadow-2 mb-4 mb-lg-0">
 										<div className="card-image">
-											<Link href="/dealer-details">
+											<Link href="#">
 												<img src="/assets/imgs/team/team-1/portrait-4.png" alt="CS-Store" />
 											</Link>
 										</div>
 										<div className="card-info p-4">
 											<div className="card-title">
-												<Link className="text-xl-bold neutral-1000" href="/dealer-details">
+												<Link className="text-xl-bold neutral-1000" href="#">
 													<h6>Jerome Bell</h6>
 												</Link>
 												<span className="text-sm-medium neutral-500">CMO (Chief Financial Officer)</span>
@@ -318,7 +318,7 @@ export default function AboutUs() {
 															<img className="m-0" src="/assets/imgs/team/team-1/icon-4.svg" alt="CS-Store" />
 														</Link>
 													</div>
-													<Link href="/dealer-details" className="rounded-circle background-100 icon-shape icon icon-sm hover-up border icon-shape-arrow">
+													<Link href="#" className="rounded-circle background-100 icon-shape icon icon-sm hover-up border icon-shape-arrow">
 														<img className="m-0" src="/assets/imgs/team/team-1/arrow-up-right.svg" alt="CS-Store" />
 													</Link>
 												</div>
@@ -697,21 +697,21 @@ export default function AboutUs() {
 											<SwiperSlide className="swiper-slide pt-2">
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
-														<Link href="/blog-details">
+														<Link href="#">
 															<img src="/assets/imgs/blog/blog-1/img-1.png" alt="CS-Store" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">News</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="#">News</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
-														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 Cadillac Escalade costs more money </Link></div>
+														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="#">2025 Cadillac Escalade costs more money </Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
 																	<img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="CS-Store" />
 																	<p className="text-sm-bold neutral-1000">Jimmy Dave</p>
 																</div>
-																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
+																<div className="card-button"><Link className="btn btn-gray" href="#">Keep Reading</Link></div>
 															</div>
 														</div>
 													</div>
@@ -720,21 +720,21 @@ export default function AboutUs() {
 											<SwiperSlide className="swiper-slide pt-2">
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
-														<Link href="/blog-details">
+														<Link href="#">
 															<img src="/assets/imgs/blog/blog-1/img-2.png" alt="CS-Store" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Trend</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="#">Trend</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
-														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 BMW 5 Series Review: A balanced luxury sedan</Link></div>
+														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="#">2025 BMW 5 Series Review: A balanced luxury sedan</Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
 																	<img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="CS-Store" />
 																	<p className="text-sm-bold neutral-1000">Steven Job</p>
 																</div>
-																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
+																<div className="card-button"><Link className="btn btn-gray" href="#">Keep Reading</Link></div>
 															</div>
 														</div>
 													</div>
@@ -743,21 +743,21 @@ export default function AboutUs() {
 											<SwiperSlide className="swiper-slide pt-2">
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
-														<Link href="/blog-details">
+														<Link href="#">
 															<img src="/assets/imgs/blog/blog-1/img-3.png" alt="CS-Store" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Discovery</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="#">Discovery</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
-														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 Ruf Rodeo is ready to wrangle some rough roads</Link></div>
+														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="#">2025 Ruf Rodeo is ready to wrangle some rough roads</Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
 																	<img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="CS-Store" />
 																	<p className="text-sm-bold neutral-1000">David Jame</p>
 																</div>
-																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
+																<div className="card-button"><Link className="btn btn-gray" href="#">Keep Reading</Link></div>
 															</div>
 														</div>
 													</div>
@@ -766,21 +766,21 @@ export default function AboutUs() {
 											<SwiperSlide className="swiper-slide pt-2">
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
-														<Link href="/blog-details">
+														<Link href="#">
 															<img src="/assets/imgs/blog/blog-1/img-2.png" alt="CS-Store" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Trend</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="#">Trend</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
-														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 BMW 5 Series Review: A balanced luxury sedan</Link></div>
+														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="#">2025 BMW 5 Series Review: A balanced luxury sedan</Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
 																	<img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="CS-Store" />
 																	<p className="text-sm-bold neutral-1000">Steven Job</p>
 																</div>
-																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
+																<div className="card-button"><Link className="btn btn-gray" href="#">Keep Reading</Link></div>
 															</div>
 														</div>
 													</div>

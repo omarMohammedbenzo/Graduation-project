@@ -36,7 +36,7 @@ export default function Footer1() {
 								</div>
 								<div className="box-need-help">
 									<p className="need-help text-md-medium mb-5">Need help? Call us</p>
-									<br /><Link className="heading-6 phone-support" href="/tel:+1 222-555-33-99">+1 222-555-33-99</Link>
+									<br /><a className="heading-6 phone-support" href="tel:+12225553399">+1 222-555-33-99</a>
 								</div>
 							</div>
 						</div>

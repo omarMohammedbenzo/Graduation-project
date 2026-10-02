@@ -48,12 +48,12 @@ export default function Services() {
 										</div>
 										<div className="card-info">
 											<div className="card-title mb-3">
-												<Link className="text-xl-bold neutral-1000" href="/blog-details">Daily and Weekly Car Rentals</Link>
+												<Link className="text-xl-bold neutral-1000" href="/contact">Daily and Weekly Car Rentals</Link>
 												<p className="text-md-medium neutral-500 mt-2">Flexible rental options available for both short-term and weekly needs, ideal for vacations or business trips.</p>
 											</div>
 											<div className="card-program">
 												<div className="endtime">
-													<div className="card-button"><Link className="btn btn-primary2" href="/blog-details">View Details</Link></div>
+													<div className="card-button"><Link className="btn btn-primary2" href="/contact">View Details</Link></div>
 												</div>
 											</div>
 										</div>
@@ -66,12 +66,12 @@ export default function Services() {
 										</div>
 										<div className="card-info">
 											<div className="card-title mb-3">
-												<Link className="text-xl-bold neutral-1000" href="/blog-details">Long-Term Rentals</Link>
+												<Link className="text-xl-bold neutral-1000" href="/contact">Long-Term Rentals</Link>
 												<p className="text-md-medium neutral-500 mt-2">Convenient and cost-effective solutions for those needing a vehicle for an extended period, with discounted rates.</p>
 											</div>
 											<div className="card-program">
 												<div className="endtime">
-													<div className="card-button"><Link className="btn btn-primary2" href="/blog-details">View Details</Link></div>
+													<div className="card-button"><Link className="btn btn-primary2" href="/contact">View Details</Link></div>
 												</div>
 											</div>
 										</div>
@@ -84,12 +84,12 @@ export default function Services() {
 										</div>
 										<div className="card-info">
 											<div className="card-title mb-3">
-												<Link className="text-xl-bold neutral-1000" href="/blog-details">Luxury Car Rentals</Link>
+												<Link className="text-xl-bold neutral-1000" href="/contact">Luxury Car Rentals</Link>
 												<p className="text-md-medium neutral-500 mt-2">Drive in style with our selection of high-end vehicles, perfect for special occasions or executive travel.</p>
 											</div>
 											<div className="card-program">
 												<div className="endtime">
-													<div className="card-button"><Link className="btn btn-primary2" href="/blog-details">View Details</Link></div>
+													<div className="card-button"><Link className="btn btn-primary2" href="/contact">View Details</Link></div>
 												</div>
 											</div>
 										</div>
@@ -102,12 +102,12 @@ export default function Services() {
 										</div>
 										<div className="card-info">
 											<div className="card-title mb-3">
-												<Link className="text-xl-bold neutral-1000" href="/blog-details">VIP Transfer Services</Link>
+												<Link className="text-xl-bold neutral-1000" href="/contact">VIP Transfer Services</Link>
 												<p className="text-md-medium neutral-500 mt-2">Flexible rental options available for both short-term and weekly needs, ideal for vacations or business trips.</p>
 											</div>
 											<div className="card-program">
 												<div className="endtime">
-													<div className="card-button"><Link className="btn btn-primary2" href="/blog-details">View Details</Link></div>
+													<div className="card-button"><Link className="btn btn-primary2" href="/contact">View Details</Link></div>
 												</div>
 											</div>
 										</div>
@@ -120,12 +120,12 @@ export default function Services() {
 										</div>
 										<div className="card-info">
 											<div className="card-title mb-3">
-												<Link className="text-xl-bold neutral-1000" href="/blog-details">Chauffeur Services</Link>
+												<Link className="text-xl-bold neutral-1000" href="/contact">Chauffeur Services</Link>
 												<p className="text-md-medium neutral-500 mt-2">Flexible rental options available for both short-term and weekly needs, ideal for vacations or business trips.</p>
 											</div>
 											<div className="card-program">
 												<div className="endtime">
-													<div className="card-button"><Link className="btn btn-primary2" href="/blog-details">View Details</Link></div>
+													<div className="card-button"><Link className="btn btn-primary2" href="/contact">View Details</Link></div>
 												</div>
 											</div>
 										</div>
@@ -138,12 +138,12 @@ export default function Services() {
 										</div>
 										<div className="card-info">
 											<div className="card-title mb-3">
-												<Link className="text-xl-bold neutral-1000" href="/blog-details">Airport Meet and Greet</Link>
+												<Link className="text-xl-bold neutral-1000" href="/contact">Airport Meet and Greet</Link>
 												<p className="text-md-medium neutral-500 mt-2">Flexible rental options available for both short-term and weekly needs, ideal for vacations or business trips.</p>
 											</div>
 											<div className="card-program">
 												<div className="endtime">
-													<div className="card-button"><Link className="btn btn-primary2" href="/blog-details">View Details</Link></div>
+													<div className="card-button"><Link className="btn btn-primary2" href="/contact">View Details</Link></div>
 												</div>
 											</div>
 										</div>
@@ -156,12 +156,12 @@ export default function Services() {
 										</div>
 										<div className="card-info">
 											<div className="card-title mb-3">
-												<Link className="text-xl-bold neutral-1000" href="/blog-details">Concierge Services</Link>
+												<Link className="text-xl-bold neutral-1000" href="/contact">Concierge Services</Link>
 												<p className="text-md-medium neutral-500 mt-2">Flexible rental options available for both short-term and weekly needs, ideal for vacations or business trips.</p>
 											</div>
 											<div className="card-program">
 												<div className="endtime">
-													<div className="card-button"><Link className="btn btn-primary2" href="/blog-details">View Details</Link></div>
+													<div className="card-button"><Link className="btn btn-primary2" href="/contact">View Details</Link></div>
 												</div>
 											</div>
 										</div>
@@ -174,12 +174,12 @@ export default function Services() {
 										</div>
 										<div className="card-info">
 											<div className="card-title mb-3">
-												<Link className="text-xl-bold neutral-1000" href="/blog-details">Roadside Assistance</Link>
+												<Link className="text-xl-bold neutral-1000" href="/contact">Roadside Assistance</Link>
 												<p className="text-md-medium neutral-500 mt-2">Flexible rental options available for both short-term and weekly needs, ideal for vacations or business trips.</p>
 											</div>
 											<div className="card-program">
 												<div className="endtime">
-													<div className="card-button"><Link className="btn btn-primary2" href="/blog-details">View Details</Link></div>
+													<div className="card-button"><Link className="btn btn-primary2" href="/contact">View Details</Link></div>
 												</div>
 											</div>
 										</div>
@@ -192,12 +192,12 @@ export default function Services() {
 										</div>
 										<div className="card-info">
 											<div className="card-title mb-3">
-												<Link className="text-xl-bold neutral-1000" href="/blog-details">Customizable Rental Packages</Link>
+												<Link className="text-xl-bold neutral-1000" href="/contact">Customizable Rental Packages</Link>
 												<p className="text-md-medium neutral-500 mt-2">Flexible rental options available for both short-term and weekly needs, ideal for vacations or business trips.</p>
 											</div>
 											<div className="card-program">
 												<div className="endtime">
-													<div className="card-button"><Link className="btn btn-primary2" href="/blog-details">View Details</Link></div>
+													<div className="card-button"><Link className="btn btn-primary2" href="/contact">View Details</Link></div>
 												</div>
 											</div>
 										</div>
@@ -476,21 +476,21 @@ export default function Services() {
 											<SwiperSlide className="swiper-slide pt-2">
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
-														<Link href="/blog-details">
+														<Link href="#">
 															<img src="/assets/imgs/blog/blog-1/img-1.png" alt="CS-Store" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">News</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="#">News</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
-														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 Cadillac Escalade costs more money </Link></div>
+														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="#">2025 Cadillac Escalade costs more money </Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
 																	<img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="CS-Store" />
 																	<p className="text-sm-bold neutral-1000">Jimmy Dave</p>
 																</div>
-																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
+																<div className="card-button"><Link className="btn btn-gray" href="#">Keep Reading</Link></div>
 															</div>
 														</div>
 													</div>
@@ -499,21 +499,21 @@ export default function Services() {
 											<SwiperSlide className="swiper-slide pt-2">
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
-														<Link href="/blog-details">
+														<Link href="#">
 															<img src="/assets/imgs/blog/blog-1/img-2.png" alt="CS-Store" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Trend</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="#">Trend</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
-														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 BMW 5 Series Review: A balanced luxury sedan</Link></div>
+														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="#">2025 BMW 5 Series Review: A balanced luxury sedan</Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
 																	<img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="CS-Store" />
 																	<p className="text-sm-bold neutral-1000">Steven Job</p>
 																</div>
-																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
+																<div className="card-button"><Link className="btn btn-gray" href="#">Keep Reading</Link></div>
 															</div>
 														</div>
 													</div>
@@ -522,21 +522,21 @@ export default function Services() {
 											<SwiperSlide className="swiper-slide pt-2">
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
-														<Link href="/blog-details">
+														<Link href="#">
 															<img src="/assets/imgs/blog/blog-1/img-3.png" alt="CS-Store" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Discovery</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="#">Discovery</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
-														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 Ruf Rodeo is ready to wrangle some rough roads</Link></div>
+														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="#">2025 Ruf Rodeo is ready to wrangle some rough roads</Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
 																	<img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="CS-Store" />
 																	<p className="text-sm-bold neutral-1000">David Jame</p>
 																</div>
-																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
+																<div className="card-button"><Link className="btn btn-gray" href="#">Keep Reading</Link></div>
 															</div>
 														</div>
 													</div>
@@ -545,21 +545,21 @@ export default function Services() {
 											<SwiperSlide className="swiper-slide pt-2">
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
-														<Link href="/blog-details">
+														<Link href="#">
 															<img src="/assets/imgs/blog/blog-1/img-1.png" alt="CS-Store" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">News</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="#">News</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
-														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 Cadillac Escalade costs more money </Link></div>
+														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="#">2025 Cadillac Escalade costs more money </Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
 																	<img src="/assets/imgs/blog/blog-1/avatar-1.png" alt="CS-Store" />
 																	<p className="text-sm-bold neutral-1000">Jimmy Dave</p>
 																</div>
-																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
+																<div className="card-button"><Link className="btn btn-gray" href="#">Keep Reading</Link></div>
 															</div>
 														</div>
 													</div>
@@ -568,21 +568,21 @@ export default function Services() {
 											<SwiperSlide className="swiper-slide pt-2">
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
-														<Link href="/blog-details">
+														<Link href="#">
 															<img src="/assets/imgs/blog/blog-1/img-2.png" alt="CS-Store" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Trend</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="#">Trend</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
-														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 BMW 5 Series Review: A balanced luxury sedan</Link></div>
+														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="#">2025 BMW 5 Series Review: A balanced luxury sedan</Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
 																	<img src="/assets/imgs/blog/blog-1/avatar-2.png" alt="CS-Store" />
 																	<p className="text-sm-bold neutral-1000">Steven Job</p>
 																</div>
-																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
+																<div className="card-button"><Link className="btn btn-gray" href="#">Keep Reading</Link></div>
 															</div>
 														</div>
 													</div>
@@ -591,21 +591,21 @@ export default function Services() {
 											<SwiperSlide className="swiper-slide pt-2">
 												<div className="card-news background-card hover-up">
 													<div className="card-image">
-														<Link href="/blog-details">
+														<Link href="#">
 															<img src="/assets/imgs/blog/blog-1/img-3.png" alt="CS-Store" />
 														</Link>
 													</div>
 													<div className="card-info">
-														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="/blog-grid">Discovery</Link>
+														<Link className="bg-2 rounded-12 position-absolute top-0 end-0 translate-middle-y px-3 py-2 me-4 text-sm-bold" href="#">Discovery</Link>
 														<div className="card-meta"><span className="post-date neutral-1000">18 Sep 2024</span><span className="post-time neutral-1000">6 mins</span><span className="post-comment neutral-1000">38 comments</span></div>
-														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="/blog-details">2025 Ruf Rodeo is ready to wrangle some rough roads</Link></div>
+														<div className="card-title"><Link className="text-xl-bold neutral-1000" href="#">2025 Ruf Rodeo is ready to wrangle some rough roads</Link></div>
 														<div className="card-program">
 															<div className="endtime">
 																<div className="card-author">
 																	<img src="/assets/imgs/blog/blog-1/avatar-3.png" alt="CS-Store" />
 																	<p className="text-sm-bold neutral-1000">David Jame</p>
 																</div>
-																<div className="card-button"><Link className="btn btn-gray" href="/blog-details">Keep Reading</Link></div>
+																<div className="card-button"><Link className="btn btn-gray" href="#">Keep Reading</Link></div>
 															</div>
 														</div>
 													</div>
