@@ -61,34 +61,6 @@ export const swiperGroup3 = {
 		},
 	},
 }
-export const swiperGroup2 = {
-	modules: [Autoplay, Pagination, Navigation],
-	slidesPerView: 2,
-	spaceBetween: 30,
-	slidesPerGroup: 1,
-	loop: true,
-	navigation: {
-		nextEl: '.swiper-button-next-2',
-		prevEl: '.swiper-button-prev-2',
-	},
-	autoplay: {
-		delay: 10000,
-	},
-	breakpoints: {
-		1199: {
-			slidesPerView: 2,
-		},
-		800: {
-			slidesPerView: 1,
-		},
-		400: {
-			slidesPerView: 1,
-		},
-		250: {
-			slidesPerView: 1,
-		},
-	},
-}
 export const swiperGroup1 = {
 	modules: [Autoplay, Pagination, Navigation],
 	slidesPerView: 1,
