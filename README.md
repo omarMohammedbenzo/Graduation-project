@@ -32,7 +32,7 @@ Users can browse and filter a catalogue of cars, view detailed car pages, shop f
 - **Services, About us, Contact, Terms** informational pages.
 - **Login & Register** pages.
 - **Light / dark theme switch**.
-- Animated counters, carousels/sliders, video modal, back-to-top button and preloader.
+- Animated counters, carousels/sliders, video modal and a back-to-top button.
 - Custom **404 / Not Found** page.
 - Fully **responsive** layout with desktop and mobile menus.
 
